@@ -1,4 +1,5 @@
-#Use Oceananigans v0.82. Small changes are required for newer versions.
+#See toml files for information on packages.
+#In particular, use Oceananigans v0.82. Small changes are required for newer versions.
 #For other packages, any version from 2023 should suffice.
 
 using Oceananigans,
